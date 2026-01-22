@@ -2,7 +2,7 @@
 
 This project demonstrates a complete data engineering and data analysis workflow, starting from data acquisition to interactive visualization. The objective of the project is to extract raw data from a GitHub repository, process and store it in a MySQL database using Python, perform SQL-based analysis, and present insights through an interactive Streamlit application.
 
-**Workflow Summary**
+**Workflow Summary**<br>
 **1. Repository Cloning and Data Extraction**
 
 The project begins by cloning a GitHub data repository. Raw data is extracted from multiple folders within the repository and loaded into Python. The extracted data is stored in structured variables to enable efficient processing and transformation.
